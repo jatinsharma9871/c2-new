@@ -1,0 +1,64 @@
+{
+  "houses": [
+    {
+      "name": "jatin",
+      "ownername": "sharma",
+      "address": "fkdkf",
+      "areaCode": "bhjfds",
+      "rent": "nje4",
+      "preferredTenant": "bachelor",
+      "img": "kjfe",
+      "id": 1
+    },
+    {
+      "name": "adf",
+      "ownername": "sharma",
+      "address": "dsdkjadkfncme",
+      "areaCode": "jks54",
+      "rent": "54",
+      "preferredTenant": "bachelor",
+      "img": "www.gmail.com",
+      "id": 2
+    },
+    {
+      "name": "vij",
+      "ownername": "shar",
+      "address": "dfdsjfok jwefkom",
+      "areaCode": "nfojkd",
+      "rent": "nkfef545",
+      "preferredTenant": "married",
+      "img": "das",
+      "id": 3
+    },
+    {
+      "name": "jatin",
+      "ownername": "shar",
+      "address": "dfdsjfok jwefkom",
+      "areaCode": "nfojkd",
+      "rent": "nkfef545",
+      "preferredTenant": "married",
+      "img": "dasfd45sf",
+      "id": 4
+    },
+    {
+      "name": "sam",
+      "ownername": "ssjadnk",
+      "address": "jkfdnskfn",
+      "areaCode": "nkfndfdsk",
+      "rent": "5646+",
+      "preferredTenant": "married",
+      "img": "fdfsd564654",
+      "id": 5
+    },
+    {
+      "name": "dssak",
+      "ownername": "ndsk",
+      "address": "jnsdkn",
+      "areaCode": "jnskdn",
+      "rent": "kndskn",
+      "preferredTenant": "bachelor",
+      "img": "nkdmns",
+      "id": 6
+    }
+  ]
+}
